@@ -10,7 +10,7 @@ tags:
 - arrays
 ---
 
-.NET has a built-in method, `string.Join` to create strings from lists,
+.NET has a built-in method, `string.Join`, to create strings from lists,
 arrays, or any type that implements `IEnumerable<string>`, and from
 `object[]` arrays.
 
