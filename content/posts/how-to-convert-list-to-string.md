@@ -3,7 +3,7 @@ title: "C# .NET: How to Convert List to String"
 date: 2020-10-16T12:16:08+01:00
 draft: false
 categories:
-- string
+- Basics
 tags:
 - strings
 - lists
@@ -60,4 +60,8 @@ Console.WriteLine(numberStr);
 // 1, 2, 3
 ```
 
-[Learn more about `string.Join` from the Microsoft Docs.](https://docs.microsoft.com/dotnet/api/system.string.join?WT.mc_id=DOP-MVP-4032540)
+## Further Reading
+
+Learn more about `string.Join` from the Microsoft Docs:
+
+- [string.Join](https://docs.microsoft.com/dotnet/api/system.string.join?WT.mc_id=DOP-MVP-4032540)

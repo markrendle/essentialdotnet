@@ -25,7 +25,7 @@ style = "auto"  # default: auto. light: light theme, dark: dark theme, auto: bas
 dateFormat = "Monday, January 2, 2006"  # if unset, default is "2006-01-02"
 # logo = ""  # if you have a logo png
 # slogan = "100% JavaScript-free"
-license = "CC0"  # CC License
+# license = "This content is licensed as CC BY-SA-NC 4.0"  # CC License
 fullRss = true # Puts entire HTML post into rss 'description' tag. If unset, default is false.
 
 [params.comments]
@@ -51,9 +51,9 @@ showTags = true             # /tags/
 
 # custom navigation items
 
-# [[params.nav.custom]]
-# title = "About"
-# url = "/about"
+[[params.nav.custom]]
+title = "License"
+url = "/license"
 
 [[params.nav.custom]]
 title = "Hugo"
