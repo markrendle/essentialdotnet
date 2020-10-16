@@ -8,7 +8,7 @@ languageCode = "en-gb"
 enableRobotsTXT = true
 
 # Enable Disqus
-#disqusShortname = "XXX"
+disqusShortname = "essentialdotnet"
 
 # Google Analytics
 #googleAnalytics = "UA-123-45"
