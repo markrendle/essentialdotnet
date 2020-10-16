@@ -18,7 +18,7 @@ arrays, or any type that implements `IEnumerable<string>`, and from
 
 ## Examples
 
-Join with a string separator:
+Join with a `string` separator:
 
 ```csharp
 var fruits = new string[] { "Apples", "Bananas", "Cherries" };
