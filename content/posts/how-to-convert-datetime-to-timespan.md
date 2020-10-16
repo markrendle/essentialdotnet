@@ -1,7 +1,7 @@
 ---
 title: "C# .NET: How to Convert DateTime to TimeSpan"
 date: 2020-10-16T14:56:12+01:00
-draft: true
+draft: false
 categories:
 - Basics
 tags:

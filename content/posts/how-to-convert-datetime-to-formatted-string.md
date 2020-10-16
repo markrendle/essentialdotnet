@@ -1,7 +1,7 @@
 ---
 title: "C# .NET: How to Convert Date/Time to Formatted String"
 date: 2020-10-16T15:43:58+01:00
-draft: true
+draft: false
 categories:
 - Basics
 tags:
